@@ -10,7 +10,7 @@ const Header = () => {
             <div className="title-section">
                 <h1>Talk Show on <span className="title"> World Economics!</span></h1>
                 <h3>Select a handful of <span className="title"> individuals </span>for the Talk Show</h3>
-                <h3>Total Budget: <span className="title">10 Million USD </span></h3>
+                <h3>Total Budget: <span className="title">1.5 Million USD ($  1,500,000) </span></h3>
             </div>
         </div>
     )
