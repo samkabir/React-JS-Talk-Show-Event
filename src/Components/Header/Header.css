@@ -1,0 +1,18 @@
+.header-section{
+    text-align: center;
+    padding: 30px;
+    background-color: palevioletred;
+    display: flex;
+}
+.title{
+    color: white;
+}
+.img-section{
+    width: 50%;
+}
+.img-section img{
+    border-radius: 10px;
+}
+.title-section{
+    width: 50%;
+}

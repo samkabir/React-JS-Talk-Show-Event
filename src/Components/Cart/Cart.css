@@ -1,0 +1,18 @@
+.Cart-section{
+    border: 1px solid palevioletred;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+.cart-details{
+    display: flex;
+    border: 2px solid pink;
+    margin: 2px;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+.cart-details img{
+    border-radius: 10px;
+}
